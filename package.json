@@ -1,6 +1,6 @@
 {
   "name": "@leoilab/gpuimage-ios",
-  "version": "0.1.7",
+  "version": "0.1.7-leoilab",
   "description": "An open source iOS framework for GPU-based image and video processing.",
   "main": "index.js",
   "repository": "https://github.com/leoilab/gpuimage-ios.git",

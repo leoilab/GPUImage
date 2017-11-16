@@ -1,1 +1,1 @@
-throw new Error('"@leoilab/gpuimage-ios" does not have a JavaScript interface.')
+throw new Error('"@imagine/gpuimage-ios" does not have a JavaScript interface.')
